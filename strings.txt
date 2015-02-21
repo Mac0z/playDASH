@@ -1,0 +1,11 @@
+# String file for PlayDASH plugin
+
+PLUGIN_PLAYDASH
+	EN	PlayDASH
+
+PLUGIN_PLAYDASH_DESC
+	EN	PlayDASH plugin is bare mimnimum plugin so that a copy of playdash.sh can be in the plugin's BIN directory.
+
+DASH
+	EN	MPEG-DASH DASH mpd
+

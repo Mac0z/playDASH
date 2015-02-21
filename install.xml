@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<extension>
+	<name>PLUGIN_PLAYDASH</name>
+	<module>Plugins::PlayDASH::Plugin</module>
+	<playerMenu>RADIO</playerMenu>
+	<version>1.0</version>
+	<description>PLUGIN_PLAYDASH_DESC</description>
+	<creator>Mac0z</creator>
+	<defaultState>enabled</defaultState>
+	<homepageURL></homepageURL>
+	<optionsURL></optionsURL>
+	<icon></icon>
+	<type>2</type><!-- type=extension -->
+	<targetApplication>
+		<id>SlimServer</id>
+		<minVersion>7.3</minVersion>
+	        <maxVersion>7.*</maxVersion>
+	</targetApplication>
+</extension>
