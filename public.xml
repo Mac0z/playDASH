@@ -1,0 +1,19 @@
+<extensions>
+  <details>
+    <title lang="EN">PlayDASH Plugin</title>
+  </details>
+  <plugins>
+    <plugin name="PlayDASH" version="1.06" minTarget="7.5" maxTarget="*">
+      <title lang="EN">PlayDASH</title>
+      <desc lang="EN">Play MPEG-DASH streams through squeezebox</desc>
+      <url>
+        https://raw.github.com/Mac0z/PlayDASH/master/PlayDASH.zip
+      </url>
+      <link>https://github.com/Mac0z/PlayDASH</link>
+      <sha>8addf804bcfb233ae7539fe5796148d49544b9bc</sha>
+      <creator>Mac0z</creator>
+      <email>Mac0z@users.noreply.github.com</email>
+    </plugin>
+  </plugins>
+</extensions>
+
