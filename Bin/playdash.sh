@@ -1,4 +1,5 @@
 #!/bin/sh
+#wrapper for vlc
 scriptpid=$$
 apppid=/tmp/.playvlc-app.$$.pid
 app=/Applications/VLC.app/Contents/MacOS/VLC
