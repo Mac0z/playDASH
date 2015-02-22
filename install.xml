@@ -4,7 +4,7 @@
 	<name>PLUGIN_PLAYDASH</name>
 	<module>Plugins::PlayDASH::Plugin</module>
 	<playerMenu>RADIO</playerMenu>
-	<version>1.0</version>
+	<version>1.2</version>
 	<description>PLUGIN_PLAYDASH_DESC</description>
 	<creator>Mac0z</creator>
 	<defaultState>enabled</defaultState>
