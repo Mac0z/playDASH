@@ -10,6 +10,7 @@
         https://raw.github.com/Mac0z/PlayDASH/master/PlayDASH.zip
       </url>
       <link>https://github.com/Mac0z/PlayDASH</link>
+      <sha>https://raw.githubusercontent.com/Mac0z/playDASH/master/public.xml</sha>
       <creator>Mac0z</creator>
       <email>Mac0z@users.noreply.github.com</email>
     </plugin>
