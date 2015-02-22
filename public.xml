@@ -7,10 +7,10 @@
       <title lang="EN">PlayDASH</title>
       <desc lang="EN">Play MPEG-DASH streams through squeezebox</desc>
       <url>
-        https://raw.github.com/Mac0z/PlayDASH/master/PlayDASH.zip
+        http://raw.github.com/Mac0z/PlayDASH/master/PlayDASH.zip
       </url>
       <link>https://github.com/Mac0z/PlayDASH</link>
-      <sha>https://raw.githubusercontent.com/Mac0z/playDASH/master/public.xml</sha>
+      <sha>5ba282d4e1082bda9deb95a703044ef6a7d0dad9</sha>
       <creator>Mac0z</creator>
       <email>Mac0z@users.noreply.github.com</email>
     </plugin>
