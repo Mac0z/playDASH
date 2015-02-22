@@ -14,7 +14,7 @@ use Slim::Utils::Prefs;
 # create log categogy before loading other modules
 my $log = Slim::Utils::Log->addLogCategory({
 	'category'     => 'plugin.playdash',
-	'defaultLevel' => 'WARN',
+	'defaultLevel' => 'INFO',
 	'description'  => getDisplayName(),
 });
 
